@@ -1,7 +1,7 @@
 clear,clc
 eta1 = 0;
 eta2 = 0.4;
-tspan = [0,3];
+tspan = [0,5];
 D1 = 0.01;
 D2 = 0.01;
 a=csvread('5.csv');
